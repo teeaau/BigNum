@@ -1,2 +1,2 @@
 # BigNum
-A program use to calculate big number
+A program used for calculating big number
